@@ -7,7 +7,7 @@
 </h1>
 <h4 align="center">RaspTank Project - <a href="#" target="_blank">M2 Data Science</a>.</h4>
 <img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/ahmedrachid?s=150&v=1">
-<img align="right" width="150" height="150" src="https://i.ibb.co/8rX2Mtd/dddsadd.png">
+<img align="right" width="150" height="150" src="https://i.ibb.co/TwX0sDR/dddsadd.png">
 
 
 <br><br>
