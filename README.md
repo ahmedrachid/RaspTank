@@ -26,7 +26,7 @@ This project contains 3 servers which are connected to each other.
 * [Robot Server](https://github.com/ahmedrachid/RaspTank/blob/main/robotServer.py)  
 
 ## General info
-We have developed it in Python Language using standard libraires such as: 
+We have developed it in **Python Language** using standard libraires such as: 
 * socket
 * keyboard
 * threading
