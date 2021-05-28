@@ -8,7 +8,7 @@
 <h4 align="center">RaspTank Project - <a href="#" target="_blank">M2 Data Science</a>.</h4>
 
 [@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) 
-![@aprilspeight](https://drive.google.com/file/d/1lC-E9FL8cj9elJMqQeXb7R_vMBsVuQGL/view?usp=sharing) | ![@Brawrdon](https://drive.google.com/file/d/1lC-E9FL8cj9elJMqQeXb7R_vMBsVuQGL/view?usp=sharing)
+![@aprilspeight](https://ibb.co/dKbbp6W) | ![@Brawrdon](https://ibb.co/dKbbp6W)
 Group:
 - Ahmed Rachid HAZOURLI
 - Anes MEKKI
