@@ -10,9 +10,9 @@
 <img align="right" width="150" height="150" src="https://avatars.githubusercontent.com/ahmedrachid?s=150&v=1">
 
 
-Group:
-**Ahmed Rachid HAZOURLI**
-**Anes MEKKI**
+
+- **Ahmed Rachid HAZOURLI**
+- **Anes MEKKI**
 
 <br><br>
 ## Project Content: we have developed 3 servers 
