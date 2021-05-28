@@ -51,11 +51,11 @@ We have developed it in **Python Language** using standard libraires such as:
   - Police Lights ON ( Press L button )
   - Bonus / Malus algorithm to Stop a random robot each 30 seconds.
 
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+## Work
+
+Ahmed Rachid: worked on the configuration of DHCP and HOSTAPD on the main server. Then, worked on developing code for main server by forwarding the received commands messages from the controllers to the robots and mapping them. Also, I worked on the movements and bonus / malus.
+
+Anes: worked on the controller code part by translating keyboard press buttons to messages and send them to the main server. Worked on main server part too and debugging code. 
 	
 ## Setup
 To run this project: <br>
@@ -74,7 +74,7 @@ $ sudo python3 robotServer.py
 
 **On the Controller**
 ```
-$ 
 $ sudo python3 controllerServer.py
 ```
+
 Once you execute this command, you can now press on the buttons to move forward / backward.... 
