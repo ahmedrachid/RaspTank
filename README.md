@@ -7,14 +7,13 @@ Group:
 - Anes MEKKI
 
 
-## Table of contents
+## Project Content: we have developed 3 servers 
 * Main Server
 * Controller Server
 * Robot Server
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
-	
+This project was developed in Python Language using standard libraires such as: socket, keyboard, threading, os
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
