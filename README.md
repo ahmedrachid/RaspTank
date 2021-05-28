@@ -15,13 +15,47 @@
 - **Anes MEKKI**
 
 <br><br>
-## Project Content: we have developed 3 servers 
+
+## Project Content: 
+We have succeeded to develop all the parts of this project and participated as a first group in the race. <br>
+This project contains 3 servers which are connected to each other.
+
 * Main Server
 * Controller Server
 * Robot Server
 
 ## General info
-This project was developed in Python Language using standard libraires such as: socket, keyboard, threading, os
+We have developed it in Python Language using standard libraires such as: 
+* socket
+* keyboard
+* threading
+* os
+
+
+## Key Features
+
+* Registration of Rasptank by RobotName
+* Connection of Controller to the main server
+* Link the Controller to its Robot
+*  
+  - Instantly see what your Markdown documents look like in HTML as you create them.
+* Sync Scrolling
+  - While you type, LivePreview will automatically scroll to the current location you're editing.
+* GitHub Flavored Markdown  
+* Syntax highlighting
+* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Dark/Light mode
+* Toolbar for basic Markdown formatting
+* Supports multiple cursors
+* Save the Markdown preview as PDF
+* Emoji support in preview :tada:
+* App will keep alive in tray for quick usage
+* Full screen mode
+  - Write distraction free.
+* Cross platform
+  - Windows, macOS and Linux ready.
+
+
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
