@@ -1,16 +1,15 @@
 # RaspTank
 RaspTank Project - M2 Data Science
 -- Paris Saclay University -- 
-
-Group:
+> Group:
 - Ahmed Rachid HAZOURLI
 - Anes MEKKI
 
 
 ## Table of contents
-* [Main Server]
-* [Controller Server]
-* [Robot Server]
+* Main Server
+* Controller Server
+* Robot Server
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
