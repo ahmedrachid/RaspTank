@@ -58,10 +58,9 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
-To run this project, install it locally using npm:
-
+To run this project: <br>
+**On the Main Server**
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ sudo hostapd /etc/hostapd/hostapd.conf
+$ sudo python3 mainServer.py
 ```
