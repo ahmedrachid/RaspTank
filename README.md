@@ -55,7 +55,7 @@ We have developed it in **Python Language** using standard libraires such as:
 
 **Ahmed Rachid**: worked on the configuration of DHCP and HOSTAPD on the main server. Then, worked on developing code for main server by forwarding the received commands messages from the controllers to the robots and mapping them. Also, I worked on the movements and bonus / malus.
 
-**Anes**: worked on the controller code part by translating keyboard press buttons to messages and send them to the main server. Worked on main server part too and debugging code. 
+**Anes**: worked on the controller code part by translating keyboard press buttons to messages and send them to the main server. Worked on main server part too and debugging code of movements / stop robots... 
 	
 ## Setup
 To run this project: <br>
