@@ -17,7 +17,8 @@
 <br><br>
 
 ## Project Content: 
-We have succeeded to develop all the parts of this project and participated as a first winning group in the race 🎉. <br>
+We have succeeded to develop all the parts of this project.  We participated in the race and won it as the first group 🎉. <br>
+
 This project contains 3 servers which are connected to each other.
 
 * Main Server
@@ -37,24 +38,18 @@ We have developed it in Python Language using standard libraires such as:
 * Registration of Rasptank by RobotName
 * Connection of Controller to the main server
 * Link the Controller to its Robot
-*  
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
-
+* Manage messages in a mutli-threading way between controller and the main server as well as between the main server and robot
+* Keyboard buttons to actions
+* Implemented these actions:
+  - Move Forward ( Press W button )
+  - Move Backward ( Press S button )
+  - Move Left ( Press A button )
+  - Move Right ( Press D button )
+  - Stop Robot ( Press C button )
+  - Increase speed ( Press ↑ button )
+  - Decrease speed ( Press ↓ button )
+  - Police Lights ON ( Press L button )
+  - Bonus / Malus algorithm to Stop a random robot each 30 seconds.
 
 ## Technologies
 Project is created with:
