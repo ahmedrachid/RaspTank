@@ -6,7 +6,7 @@
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Logo_Universit%C3%A9_Paris-Saclay.svg/2560px-Logo_Universit%C3%A9_Paris-Saclay.svg.png" alt="Saclay" width="200"></a>
 </h1>
 <h4 align="center">RaspTank Project - <a href="#" target="_blank">M2 Data Science</a>.</h4>
-<img align="center" width="150" height="150" src="https://avatars.githubusercontent.com/ahmedrachid?s=150&v=1">
+<img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/ahmedrachid?s=150&v=1">
 <img align="right" width="150" height="150" src="https://avatars.githubusercontent.com/ahmedrachid?s=150&v=1">
 
 
