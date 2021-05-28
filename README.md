@@ -8,9 +8,9 @@ Group:
 
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Main Server]
+* [Controller Server]
+* [Robot Server]
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
