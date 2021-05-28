@@ -7,6 +7,7 @@
 </h1>
 <h4 align="center">RaspTank Project - <a href="#" target="_blank">M2 Data Science</a>.</h4>
 
+[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 Group:
 - Ahmed Rachid HAZOURLI
 - Anes MEKKI
