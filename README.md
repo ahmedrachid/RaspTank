@@ -17,7 +17,7 @@
 <br><br>
 
 ## Project Content: 
-We have succeeded to develop all the parts of this project and participated as a first group in the race. <br>
+We have succeeded to develop all the parts of this project and participated as a first winning group in the race 🎉. <br>
 This project contains 3 servers which are connected to each other.
 
 * Main Server
