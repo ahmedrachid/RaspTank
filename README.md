@@ -59,8 +59,22 @@ Project is created with:
 	
 ## Setup
 To run this project: <br>
+
 **On the Main Server**
 ```
 $ sudo hostapd /etc/hostapd/hostapd.conf
 $ sudo python3 mainServer.py
 ```
+Then, you should connect to the network broadcasted by the main server
+
+**On the Robot**
+```
+$ sudo python3 robotServer.py
+```
+
+**On the Controller**
+```
+$ 
+$ sudo python3 controllerServer.py
+```
+Once you execute this command, you can now press on the buttons to move forward / backward.... 
